@@ -1,4 +1,4 @@
-import {Cliente} from "./Cliente.js";
+import { Cliente } from "./Cliente.js";
 
 export class ContaCorrente {
     static numeroDeContas = 0; //vale para todas as contas, se eu alterar eu algum lugar todas as contas são alteradas
@@ -7,25 +7,27 @@ export class ContaCorrente {
     // _saldo é um campo privado por convenção, futuramente iremos 
     // escrever como #saldo https://github.com/tc39/proposal-class-
     // fields#private-fields
+
+    //aqui apenas um comentário pra testar a branch
     _saldo = 0;
 
 
 
     set cliente(novoValor) {      //Usar assessores do tipo set é uma boa prática para garantirmos que a atribuição de propriedades está sempre segura
-        if(novoValor instanceof Cliente){
+        if (novoValor instanceof Cliente) {
             this._cliente = novoValor;
         }
     }
 
-    get cliente(){
+    get cliente() {
         return this._cliente;
     }
 
-    get saldo(){
+    get saldo() {
         return this._saldo;
     }
 
-    constructor(agencia, cliente){
+    constructor(agencia, cliente) {
         this.agencia = agencia;
         this.cliente = cliente;
         ContaCorrente.numeroDeContas += 1; //contador para o número de conta, sempre que uma new ContaCorrente é criada contador soma 1
