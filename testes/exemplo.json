@@ -1,0 +1,408 @@
+  {
+    "null00601005JEAN VILMAR SGUISSARDI": [
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003P4LJAA0"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000Bs0HAAS"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000AS34AAG"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYJAAZ"
+                },
+                "SubsidiaryCode__c": "00601005"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J5e0000043tyREAQ"
+                },
+                "Name": "JEAN VILMAR SGUISSARDI"
+              }
+            }
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "PER.FHG205A-A",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": 65,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001784 - 001"
+        },
+        "chaveMap": "null00601005JEAN VILMAR SGUISSARDI"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003P4LKAA0"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000Bs0HAAS"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000AS34AAG"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYJAAZ"
+                },
+                "SubsidiaryCode__c": "00601005"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J5e0000043tyREAQ"
+                },
+                "Name": "JEAN VILMAR SGUISSARDI"
+              }
+            }
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "PER.6204-2RLDC3V2",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": 809,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001784 - 002"
+        },
+        "chaveMap": "null00601005JEAN VILMAR SGUISSARDI"
+      }
+    ],
+    "nullnullnull": [
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003iuPlAAI"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000GvojAAC"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "RTB-7H3597-5/8",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001890 - 001"
+        },
+        "chaveMap": "nullnullnull"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003iuPmAAI"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000GvojAAC"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "RTB-1S1860",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001890 - 002"
+        },
+        "chaveMap": "nullnullnull"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004IYRKAA4"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000UcnqAAC"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "R520223/260",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001929 - 001"
+        },
+        "chaveMap": "nullnullnull"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004IYRLAA4"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000UcnqAAC"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "RE529187/258",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001929 - 002"
+        },
+        "chaveMap": "nullnullnull"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004IYRMAA4"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000UcnqAAC"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "501.12.3",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001929 - 003"
+        },
+        "chaveMap": "nullnullnull"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004rgN1AAI"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/500880000010ccbAAA"
+            },
+            "Oportunidade__r": null
+          },
+          "Fornecedor__c": null,
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": 0,
+          "ProductCode__c": "BHP-5M7318"
+        },
+        "chaveMap": "nullnullnull"
+      }
+    ],
+    "null00601010WILLIAM SILVA": [
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003tuPoAAI"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000KFR8AAO"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000O6vVAAS"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYTAAZ"
+                },
+                "SubsidiaryCode__c": "00601010"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J8800000002UsEAI"
+                },
+                "Name": "WILLIAM SILVA"
+              }
+            }
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "PER.HC206-A",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": 10,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001915-001"
+        },
+        "chaveMap": "null00601010WILLIAM SILVA"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000003tuPpAAI"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000KFR8AAO"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000O6vVAAS"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYTAAZ"
+                },
+                "SubsidiaryCode__c": "00601010"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J8800000002UsEAI"
+                },
+                "Name": "WILLIAM SILVA"
+              }
+            }
+          },
+          "Fornecedor__c": null,
+          "ProductCode__c": "DQ21313/036",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": 2,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001915-002"
+        },
+        "chaveMap": "null00601010WILLIAM SILVA"
+      }
+    ],
+    "0015e00000jICxKAAW00601005JEAN VILMAR SGUISSARDI": [
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004HgASAA0"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000Bs0HAAS"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000AS34AAG"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYJAAZ"
+                },
+                "SubsidiaryCode__c": "00601005"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J5e0000043tyREAQ"
+                },
+                "Name": "JEAN VILMAR SGUISSARDI"
+              }
+            }
+          },
+          "Fornecedor__c": "0015e00000jICxKAAW",
+          "ProductCode__c": "PER.FHG205A-A",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001784 - 001-"
+        },
+        "chaveMap": "0015e00000jICxKAAW00601005JEAN VILMAR SGUISSARDI"
+      },
+      {
+        "record": {
+          "attributes": {
+            "type": "CaseItems__c",
+            "url": "/services/data/v56.0/sobjects/CaseItems__c/a1788000004HgATAA0"
+          },
+          "Case__r": {
+            "attributes": {
+              "type": "Case",
+              "url": "/services/data/v56.0/sobjects/Case/50088000000Bs0HAAS"
+            },
+            "Oportunidade__r": {
+              "attributes": {
+                "type": "Opportunity",
+                "url": "/services/data/v56.0/sobjects/Opportunity/00688000000AS34AAG"
+              },
+              "BaseBranch__r": {
+                "attributes": {
+                  "type": "Account",
+                  "url": "/services/data/v56.0/sobjects/Account/0015e00000P3vYJAAZ"
+                },
+                "SubsidiaryCode__c": "00601005"
+              },
+              "Seller__r": {
+                "attributes": {
+                  "type": "Seller__c",
+                  "url": "/services/data/v56.0/sobjects/Seller__c/a0J5e0000043tyREAQ"
+                },
+                "Name": "JEAN VILMAR SGUISSARDI"
+              }
+            }
+          },
+          "Fornecedor__c": "0015e00000jICxKAAW",
+          "ProductCode__c": "PER.6204-2RLDC3V2",
+          "IPI__c": null,
+          "ICMS_ST_Unitario__c": null,
+          "Qtd_CE_Necessidade__c": null,
+          "Preco_Sell_Out__c": null,
+          "Dias_para_Entrega__c": null,
+          "Name": "00001784 - 002-"
+        },
+        "chaveMap": "0015e00000jICxKAAW00601005JEAN VILMAR SGUISSARDI"
+      }
+    ]
+  }
